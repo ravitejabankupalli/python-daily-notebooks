@@ -1,2 +1,11 @@
 # python-daily-notebooks
-One Python Jupyter notebook every day — from basics to AI
+# Python for AI
+
+This repository contains my daily Python practice as part of a 365-day AI/ML journey.
+
+Structure:
+- Each notebook represents one day of focused learning
+- Topics move from Python basics to data handling
+
+- Day_1_Python_For_AIML.ipynd
+- 
