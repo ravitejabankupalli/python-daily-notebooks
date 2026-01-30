@@ -8,4 +8,4 @@ Structure:
 - Topics move from Python basics to data handling
 
 - Day_1_Python_For_AIML.ipynd
-- 
+- Day_2_Python_For_AIML.ipynb
