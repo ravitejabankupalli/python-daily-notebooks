@@ -9,3 +9,4 @@ Structure:
 
 - Day_1_Python_For_AIML.ipynd
 - Day_2_Python_For_AIML.ipynb
+- Day_3_Python_For_AIML.ipynb
